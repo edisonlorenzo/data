@@ -142,8 +142,5 @@
     }]
   }
   ],
-  "certification": [{
-      "name":"Game Programming NC III (TESDA)",
-      "description":"Certificate Number : 15131603003872"
-    }]
+  "certification": []
 }
