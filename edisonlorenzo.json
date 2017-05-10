@@ -117,5 +117,8 @@
     }]
   }
   ],
-  "certification": []
+  "certification": [{
+      "title":"Game Programming NC III (TESDA)",
+      "institution":"PhilKor Friendship Center <br/> February 2015 <br/> Certificate No. 15131603003872"
+  }]
 }
