@@ -126,14 +126,24 @@
     "summary": "To build mobile applications for Android that allows you to stream and watch it live on your phone.",
     "highlights": [],
     "projects":[{
-      "name":"Apec TV",
-      "description":"A mobile application that allows you to watch live video stream of what is happening during the APEC Summit.",
+      "name":"APEC TV",
+      "description":"A mobile application that allows you to watch live video stream of what was happening during the Asia-Pacific Economic Cooperation Summit.",
       "role":"Lead Developer",
       "startDate":"August 2015",
       "endDate":"November 2015",
       "technologies":"Android Studio"
+    },{
+      "name":"Win TV",
+      "description":"A mobile application that allows you to watch live video stream of different channels. It's the base application used in APEC TV",
+      "role":"Lead Developer",
+      "startDate":"July 2015",
+      "endDate":"January 2016",
+      "technologies":"Android Studio"
     }]
   }
   ],
-  "certification": []
+  "certification": [{
+      "name":"Game Programming NC III (TESDA)",
+      "description":"Certificate Number : 15131603003872"
+    }]
 }
