@@ -42,7 +42,7 @@
       "category": "Databases",
       "technologies":[{
         "name": "MySql",
-        "number_of_years": 3
+        "number_of_years": 2
       }, {
         "name": "Firebase",
         "number_of_years": 1
@@ -57,7 +57,7 @@
       "category": "Operating System",
       "technologies":[{
         "name": "Windows",
-        "number_of_years": 4
+        "number_of_years": 5
       },{
         "name": "MacOS",
         "number_of_years": 2
@@ -76,6 +76,21 @@
       }, {
         "name": "Unity 3D",
         "number_of_years": 2
+      }]
+    },{
+      "category": "Other Skills",
+      "technologies":[{
+        "name": "Sony Vegas (Video Editing)",
+        "number_of_years": 4
+      }, {
+        "name": "Adobe Photoshop (Photo Editing)",
+        "number_of_years": 4
+      }, {
+        "name": "Adobe Audition (Audio Mixing)",
+        "number_of_years": 5
+      }, {
+        "name": "PC Troubleshooting",
+        "number_of_years": 5
       }]
     }
   ],
