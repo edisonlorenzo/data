@@ -63,12 +63,6 @@
         "number_of_years": 2
       }]
     },{
-      "category": "Web Services",
-      "technologies":[{
-        "name": "Amazon Web Services",
-        "number_of_years": 1
-      }]
-    },{
       "category": "Integrated Development Environment",
       "technologies":[{
         "name": "Android Studio",
@@ -131,13 +125,6 @@
       "role":"Lead Developer",
       "startDate":"August 2015",
       "endDate":"November 2015",
-      "technologies":"Android Studio"
-    },{
-      "name":"Win TV",
-      "description":"A mobile application that allows you to watch live video stream of different channels. It's the base application used in APEC TV",
-      "role":"Lead Developer",
-      "startDate":"July 2015",
-      "endDate":"January 2016",
       "technologies":"Android Studio"
     }]
   }
