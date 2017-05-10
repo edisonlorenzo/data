@@ -34,9 +34,6 @@
       }, {
         "name": "CSS",
         "number_of_years": 2
-      }, {
-        "name": "Bootstrap",
-        "number_of_years": 1
       }]
     },{
       "category": "Databases",
@@ -46,12 +43,6 @@
       }, {
         "name": "Firebase",
         "number_of_years": 1
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 2
       }]
     },{
       "category": "Operating System",
@@ -74,13 +65,13 @@
     },{
       "category": "Other Skills",
       "technologies":[{
-        "name": "Sony Vegas (Video Editing)",
+        "name": "Sony Vegas",
         "number_of_years": 4
       }, {
-        "name": "Adobe Photoshop (Photo Editing)",
+        "name": "Adobe Photoshop",
         "number_of_years": 4
       }, {
-        "name": "Adobe Audition (Audio Mixing)",
+        "name": "Adobe Audition",
         "number_of_years": 5
       }, {
         "name": "PC Troubleshooting",
