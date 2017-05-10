@@ -49,9 +49,6 @@
       "technologies":[{
         "name": "Windows",
         "number_of_years": 5
-      },{
-        "name": "MacOS",
-        "number_of_years": 2
       }]
     },{
       "category": "Integrated Development Environment",
