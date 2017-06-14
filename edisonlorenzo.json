@@ -15,67 +15,22 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies":[{
-        "name": "Java for Android",
-        "number_of_years": 1
-      }, {
         "name": "C# for Unity",
         "number_of_years": 2
-      }]
-    },{
-      "category": "Web Technologies",
-      "technologies":[{
-        "name": "HTML5",
-        "number_of_years": 2
       }, {
-        "name": "Jquery",
+        "name": "Java for Android",
         "number_of_years": 1
       }, {
         "name": "JavaScript",
         "number_of_years": 1
       }, {
-        "name": "CSS",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Databases",
-      "technologies":[{
-        "name": "MySql",
-        "number_of_years": 2
-      }, {
-        "name": "Firebase",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Operating System",
-      "technologies":[{
-        "name": "Windows",
-        "number_of_years": 5
-      }]
-    },{
-      "category": "Integrated Development Environment",
-      "technologies":[{
-        "name": "Android Studio",
+        "name": "HTML5",
         "number_of_years": 1
       }, {
-        "name": "Unity 3D",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Other Skills",
-      "technologies":[{
-        "name": "Sony Vegas",
-        "number_of_years": 4
-      }, {
-        "name": "Adobe Photoshop",
-        "number_of_years": 4
-      }, {
-        "name": "Adobe Audition",
-        "number_of_years": 5
-      }, {
-        "name": "PC Troubleshooting",
-        "number_of_years": 5
+        "name": "CSS3",
+        "number_of_years": 1
       }]
     }
   ],
@@ -93,6 +48,7 @@
         "role":"Programmer",
         "startDate":"April 2016",
         "endDate":"Present",
+        "months": "(14 months)",
         "technologies":"Unity3D"
       },{
         "name":"Photobomb AR (Powercore)",
@@ -100,6 +56,7 @@
         "role":"Programmer",
         "startDate":"January 2017",
         "endDate":"Present",
+        "months": "(5 months)",
         "technologies":"Unity3D"
       }
     ]
@@ -116,6 +73,7 @@
       "role":"Lead Developer",
       "startDate":"August 2015",
       "endDate":"November 2015",
+      "months": "(3 months)",
       "technologies":"Android Studio"
     }]
   }
